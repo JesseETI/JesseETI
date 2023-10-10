@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Jesse Emamalie</h1>
+<h1 align="left">Hi 👋, I'm Jesse</h1>
 <h3 align="left">A passionate frontend developer from Trinidad and Tobago</h3>
 
 ``` Javascript
